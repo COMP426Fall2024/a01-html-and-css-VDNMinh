@@ -72,7 +72,7 @@ Once you are done with your webpage, please follow the following instructions to
 1. Push your changes to GitHub
 3. Go to `Settings` and select the `Pages` configuration tab, as instructed by the [GitHub website.](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch).
 4. Under `Build and Deployment` and `Branch`, please choose the `main` branch, and choose the `/root` folder. 
-5. And after a few minutes, you should see your website live! The link should follow the format: `https://comp426spring2024.github.io/a1-YOUR_REPO`.
+5. And after a few minutes, you should see your website live! The link should follow the format: `https://comp426fall2024.github.io/a1-YOUR_REPO`.
 
 Pushing changes to your main branch will cause the contents of the site to automatically update. However, it may take a few minutes to do so (no need to generate a new link).
 
